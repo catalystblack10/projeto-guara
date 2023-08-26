@@ -1,0 +1,10 @@
+.container-detalhes {
+    margin-top: 4rem;
+    padding: 0 3rem;
+    display: flex;
+    gap: 5rem
+}
+
+.container-detalhes img {
+    width: 40rem;
+}
